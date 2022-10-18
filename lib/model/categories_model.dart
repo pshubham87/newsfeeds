@@ -21,8 +21,5 @@ List<CategoryModel> categories = [
   CategoryModel(
       name: "Lifestyle", imageUrl: "assets/images/categories/lifestyle.jpg"),
   CategoryModel(
-      name: "Health and Fitness",
-      imageUrl: "assets/images/categories/health_fitness.jpg"),
-  CategoryModel(
       name: "Its Viral", imageUrl: "assets/images/categories/its_viral.jpg"),
 ];

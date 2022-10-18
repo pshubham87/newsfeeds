@@ -37,7 +37,7 @@ class _HomeState extends State<Home> {
       newsData['education'] = value[5];
       newsData['entertainment'] = value[6];
       newsData['lifestyle'] = value[7];
-      newsData['health-fitness'] = value[8];
+      newsData['health'] = value[8];
       newsData['its-viral'] = value[9];
       setState(() {
         isLoading = false;
