@@ -1,2 +1,2 @@
 # newsfeeds
-hml http
+Xml http package 
